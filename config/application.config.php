@@ -10,8 +10,7 @@ return array(
     'modules' => array(
         'Application',
         'StickyNotes',
-        'Album',
-        //'visio-crud-zf2-master',
+        'Album',        
     ),
 
     // These are various options for the listeners attached to the ModuleManager
